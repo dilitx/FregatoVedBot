@@ -30,7 +30,5 @@
    pip install aiogram sentence-transformers chromadb langchain gigachat python-dotenv
 4. Запустите бота
    
-   
-## Автор Литвинова Диана
 
 Проект в рамках производственной практики
